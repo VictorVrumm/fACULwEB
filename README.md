@@ -5,7 +5,7 @@ Alunos
 - **Caio Gomes dos Santos** - RA: 2631511
 
  Link do Projeto
-[Repositório no GitHub](https://github.com/VictorVrumm/fACULwEB)
+[Repositório no GitHub](https://github.com/VictorVrumm/fACULwEB) https://github.com/VictorVrumm/fACULwEB
 
 Instruções para Rodar o Projeto
 
