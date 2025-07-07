@@ -1,12 +1,5 @@
 # Projeto Web - Restaurante
 
-Alunos
-- **Victor Henrique de Souza Abdala Obeid** - RA: 2658739  
-- **Caio Gomes dos Santos** - RA: 2631511
-
- Link do Projeto
-[Repositório no GitHub](https://github.com/VictorVrumm/fACULwEB) https://github.com/VictorVrumm/fACULwEB
-
 Instruções para Rodar o Projeto
 
 1. **Inicialize os serviços no XAMPP:**
